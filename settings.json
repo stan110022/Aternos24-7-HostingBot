@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stan_de_pan_smp.aternos.me",
-    "port": 64246,
+    "ip": "neth_smp-CimV.aternos.me",
+    "port": 39462,
     "version": "",
     "try-creative": false
   },
